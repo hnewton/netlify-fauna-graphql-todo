@@ -24,7 +24,7 @@
   "scripts": {
     "docs": "md-magic --path '**/*.md' --ignore 'node_modules'",
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "production": "react-scripts build"
   },
   "devDependencies": {
     "@babel/plugin-transform-object-assign": "^7.0.0",
