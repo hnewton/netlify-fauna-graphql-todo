@@ -12,7 +12,7 @@
     "generate-password": "^1.4.1",
     "graphql": "^14.2.1",
     "graphql-tag": "^2.10.1",
-    "immer": "^1.7.4",
+    "immer": "^9.0.6",
     "netlify-identity-widget": "^1.4.14",
     "react": "^16.8.1",
     "react-apollo": "^2.5.4",
